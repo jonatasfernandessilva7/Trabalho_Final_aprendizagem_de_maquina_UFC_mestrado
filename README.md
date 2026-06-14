@@ -37,7 +37,7 @@ O projeto segue as etapas do **CRISP‑DM** (Cross‑Industry Standard Process f
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT – veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a licença GNU – veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## Agradecimentos
 
